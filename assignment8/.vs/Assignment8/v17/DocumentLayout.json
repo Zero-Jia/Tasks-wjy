@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\assignment8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|d:\\c#\\assignment8\\orderwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082E3681-6A50-46BE-828E-D9D93E1C5682}|OrderWebAPI\\OrderWebAPI.csproj|solutionrelative:orderwebapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\assignment8\\AspireApp1\\AspireApp1.AppHost\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspireApp1\\AspireApp1.AppHost\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formdetailedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|D:\\C#\\assignment8\\orderservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA98A8E0-9173-4C2A-8629-C3A8512286C5}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|D:\\C#\\assignment8\\orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F568EFC-1A46-4DE9-ACB6-C5E4B85D230D}|OrderForm\\OrderForm.csproj|solutionrelative:orderform\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\Global.asax.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\Global.asax.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\Global.asax.cs",
+              "RelativeToolTip": "OrderWebAPI\\Global.asax.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:38:53.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\OrderService.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\OrderService.cs",
+              "RelativeToolTip": "OrderWebAPI\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:38:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\OrderContext.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\OrderContext.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\OrderContext.cs",
+              "RelativeToolTip": "OrderWebAPI\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:38:28.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\Order.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\Order.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\Order.cs",
+              "RelativeToolTip": "OrderWebAPI\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:38:27.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\Web.config",
+              "RelativeDocumentMoniker": "OrderWebAPI\\Web.config",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\Web.config",
+              "RelativeToolTip": "OrderWebAPI\\Web.config",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T11:33:28.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "OrderWebAPI\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:33:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderWebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderWebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderWebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderWebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:32:25.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "AspireApp1\\AspireApp1.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:58:24.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AspireApp1.ServiceDefaults.csproj",
+              "DocumentMoniker": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj",
+              "ToolTip": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj",
+              "RelativeToolTip": "AspireApp1\\AspireApp1.ServiceDefaults\\AspireApp1.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T10:58:20.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "ToolTip": "D:\\C#\\assignment8\\AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "RelativeToolTip": "AspireApp1\\AspireApp1.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:58:03.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\FormDetailEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormDetailEdit.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormDetailEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:14:52.853Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormParent.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\FormParent.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormParent.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\FormParent.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormParent.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:14:50.849Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\FormMain.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormMain.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\FormMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:14:49.822Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\App.config",
+              "RelativeDocumentMoniker": "OrderForm\\App.config",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\App.config",
+              "RelativeToolTip": "OrderForm\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T10:07:18.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEdit.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\FormEdit.cs",
+              "RelativeDocumentMoniker": "OrderForm\\FormEdit.cs",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\FormEdit.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderForm\\FormEdit.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:14:49.586Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderService\\App.config",
+              "RelativeDocumentMoniker": "OrderService\\App.config",
+              "ToolTip": "D:\\C#\\assignment8\\OrderService\\App.config",
+              "RelativeToolTip": "OrderService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T10:10:06.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\C#\\assignment8\\OrderForm\\packages.config",
+              "RelativeDocumentMoniker": "OrderForm\\packages.config",
+              "ToolTip": "D:\\C#\\assignment8\\OrderForm\\packages.config",
+              "RelativeToolTip": "OrderForm\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-16T10:05:16.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
